@@ -1,4 +1,4 @@
-package enteties;
+package entities;
 
 import exception.IncorrectFormatException;
 
